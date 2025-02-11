@@ -1,3 +1,3 @@
-# Hi there 👋
+# Hello and Welcome 👋
 
-Welcome to GitHub repository of Swisstransplant, the Swiss National Foundation for Organ Donation and Transplantation.
+Please find here the code repositories of Swisstransplant, the Swiss National Foundation for Organ Donation and Transplantation.
